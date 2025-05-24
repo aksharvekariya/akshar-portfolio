@@ -1,0 +1,22 @@
+[
+    {
+        "text": "Home",
+        "href": "index.html"
+    },
+    {
+        "text": "Education",
+        "href": "education.html"
+    },
+    {
+        "text": "Experience",
+        "href": "experience.html"
+    },
+    {
+        "text": "Skills",
+        "href": "skills.html"
+    },
+    {
+        "text": "Contact",
+        "href": "contact.html"
+    }
+]

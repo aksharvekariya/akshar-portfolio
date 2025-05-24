@@ -1,0 +1,5 @@
+Home - index.html
+Education - education.html
+Experience - experience.html
+Skills - skills.html
+Contact - contact.html
